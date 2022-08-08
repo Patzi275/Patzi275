@@ -61,7 +61,7 @@ I'm an **Undergrad Student🎓** in software developer based in Benin. I enjoy c
 
 ### 🚀 Quick Stats
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Patzi275&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Patzi275&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img width="450" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=Patzi275&show_icons=true&line_height=21&theme=react" alt="Patzi275's Github Stats" />
+<img width="340" height="155" align="center" 
+     src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Patzi275&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" />
 </p>
