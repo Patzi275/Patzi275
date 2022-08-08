@@ -1,11 +1,5 @@
-<h1> 
-	<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px">
-	Hey!, I am 
-	<a href="https://github.com/Patzi275">Patrick</a> 
-	<img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430">
-</h1>
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> Hey!, I am <a href="https://github.com/Patzi275">Patrick</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430">
 
----
 <!-- Social links : 
 	Links to your social media accounts.
 -->
@@ -63,7 +57,5 @@ I'm an **Undergrad Student🎓** in software developer based in Benin. I enjoy c
 <p align="center">
   <img width="450" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=Patzi275&show_icons=true&line_height=21&theme=react" alt="Patzi275's Github Stats" />
 <img width="340" height="155" align="center" 
-     src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Defcon27&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" />
-</p>
-
+     src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Patzi275&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" />
 </p>
