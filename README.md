@@ -1,4 +1,4 @@
-<h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> Hey!, I am <a href="https://github.com/Patzi275">Patrick</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
+<h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> Hey!, I am <a href="https://github.com/Patzi275">Patrick</a>
 
 <!-- Social links : 
 	Links to your social media accounts.
@@ -17,21 +17,21 @@
 
 ### A little beat more... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
-I'm an **Undergrad Student🎓** in software developer based in Benin. I enjoy coding ... seriously and I love combining my hobbies like game, drawing, coding and building various projects about daily tools.  
+I'm an **Undergrad Student🎓** in software developer based in Benin. I enjoy coding and I love combining my hobbies like game, drawing, coding and building various projects about daily tools.  
 <br>
 
 ## ⚡️ A Few Quick Facts
 
 - 🌱 I'm currently learning Java EE for web application programming
-- ✍️In my free time, I enjoy making game, playing chess ♚, [developpez.net](http://developpez.net/) browsing and spending time with family.  
+- ✍ In my free time, I enjoy making game, playing chess ♚, [developpez.net](http://developpez.net/) browsing and reading.  
 
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 🌍 Front-end web design
   - 🛠 Distributed applications
-  - 👾 Video games
+  - 👾 Automatisation scripts
 - 👯 I’m looking to collaborate on java web application projects or game projects
-- 🤔 I’m looking for help with design patterns, hardware architecture
+- 🤔 I’m looking for help with cloud computing, hardware architecture
 - 💬 Ask me about blender, coding tools and learning resources
 
 ### 🖥️ My DevSetup
@@ -55,7 +55,9 @@ I'm an **Undergrad Student🎓** in software developer based in Benin. I enjoy c
 
 ### 🚀 Quick Stats
 <p align="center">
-  <img width="450" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=Patzi275&show_icons=true&line_height=21&theme=react" alt="Patzi275's Github Stats" />
+
 <img width="340" height="155" align="center" 
-     src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Patzi275&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" />
+     src="https://github-readme-stats.vercel.app/api?username=Patzi275&theme=tokyonight&show_icons=true" />
+<img width="340" height="155" align="center" 
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patzi275&layout=compact" />
 </p>
