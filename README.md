@@ -1,3 +1,5 @@
+
+
 <h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> Hey!, I am <a href="https://github.com/Patzi275">Patrick</a>
 
 <!-- Social links : 
@@ -23,16 +25,19 @@ I'm an **Undergrad Student🎓** in software developer based in Benin. I enjoy c
 
 ## ⚡️ A Few Quick Facts
 
-- 🌱 I'm currently learning Java EE for web application programming
+- 🌱 I'm currently learning Blockchain development
+<img src="https://miro.medium.com/max/750/1*UIlCwKWk6hl-RGTTJMXIwA.gif" style="float: right" width=50%;>
+</div>
+
 - ✍ In my free time, I enjoy making game, playing chess ♚, [developpez.net](http://developpez.net/) browsing and reading.  
 
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 🌍 Front-end web design
-  - 🛠 Distributed applications
+  - 🛠 Distributed applications (dApps)
   - 👾 Automatisation scripts
 - 👯 I’m looking to collaborate on java web application projects or game projects
-- 🤔 I’m looking for help with cloud computing, hardware architecture
+- 🤔 I’m looking for help with cloud computing, blockchain technologies
 - 💬 Ask me about blender, coding tools and learning resources
 
 ### 🖥️ My DevSetup
