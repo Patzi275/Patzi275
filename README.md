@@ -25,9 +25,8 @@ I'm an **Undergrad Student🎓** in software developer based in Benin. I enjoy c
 
 ## ⚡️ A Few Quick Facts
 
-- 🌱 I'm currently learning Blockchain development
-<img src="https://miro.medium.com/max/750/1*UIlCwKWk6hl-RGTTJMXIwA.gif" style="float: right" width=50%;>
-</div>
+- 🌱 I'm currently learning Blockchain development, smart contract, web3  
+
 
 - ✍ In my free time, I enjoy making game, playing chess ♚, [developpez.net](http://developpez.net/) browsing and reading.  
 
@@ -38,7 +37,7 @@ I'm an **Undergrad Student🎓** in software developer based in Benin. I enjoy c
   - 👾 Automatisation scripts
 - 👯 I’m looking to collaborate on java web application projects or game projects
 - 🤔 I’m looking for help with cloud computing, blockchain technologies
-- 💬 Ask me about blender, coding tools and learning resources
+- 💬 Ask me about blender, java and learning resources
 
 ### 🖥️ My DevSetup
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
