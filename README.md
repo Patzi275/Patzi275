@@ -1,6 +1,6 @@
 
 
-<h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> Hey!, I am <a href="https://github.com/Patzi275">Patrick</a>
+<h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" max-width="30px"> Hey!, I am <a href="https://github.com/Patzi275">Patrick</a>
 
 <!-- Social links : 
 	Links to your social media accounts.
