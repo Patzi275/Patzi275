@@ -1,6 +1,6 @@
 
 
-<h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" max-width="30px"> Hey!, I am <a href="https://github.com/Patzi275">Patrick</a>
+<h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40"> Hey!, I am <a href="https://github.com/Patzi275">Patrick</a>
 
 <!-- Social links : 
 	Links to your social media accounts.
@@ -25,7 +25,7 @@ I'm an **Undergrad Student🎓** in software developer based in Benin. I enjoy c
 
 ## ⚡️ A Few Quick Facts
 
-- 🌱 I'm currently learning Blockchain development, smart contract, web3  
+- 🌱 I'm currently learning Blockchain development, Web3 ecosystem
 
 
 - ✍ In my free time, I enjoy making game, playing chess ♚, [developpez.net](http://developpez.net/) browsing and reading.  
