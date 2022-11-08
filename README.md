@@ -25,15 +25,15 @@ I'm an **Undergrad Student🎓** in software developer based in Benin. I enjoy c
 
 ## ⚡️ A Few Quick Facts
 
-- 🌱 I'm currently learning Blockchain development, Web3 ecosystem
+- 🌱 I'm currently learning Blockchain development, Reactjs and Javascript 
 
 
-- ✍ In my free time, I enjoy making game, playing chess ♚, [developpez.net](http://developpez.net/) browsing and reading.  
+- ✍ In my free time, I enjoy making game, playing chess ♚, [developpez.net](http://developpez.net/)'s forum browsing and reading.  
 
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 🌍 Front-end web design
-  - 🛠 Distributed applications (dApps)
+  - 🛠 Distributed applications (..., dApps)
   - 👾 Automatisation scripts
 - 👯 I’m looking to collaborate on java web application projects or game projects
 - 🤔 I’m looking for help with cloud computing, blockchain technologies
