@@ -10,7 +10,7 @@
 <h3>📬 Find me at</h3>
 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-circle&logo=github&link=https://github.com/Patzi275/)](https://github.com/Patzi275/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrick-zocli-729581224/)](https://www.linkedin.com/in/patrick-zocli-729581224/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrick-zocli/)](https://www.linkedin.com/in/patrick-zocli/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-circle&logo=Twitter&logoColor=white&link=https://twitter.com/patzidev)](https://twitter.com/patzidev)
 [![Bad](https://www.codewars.com/users/PatrickZ/badges/micro)](https://www.codewars.com/users/PatrickZ/badges/micro)
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=circle&logo=Itch.io&logoColor=white)](https://patziroyal.itch.io)
