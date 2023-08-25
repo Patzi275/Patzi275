@@ -26,7 +26,7 @@ I'm an **Undergrad Student🎓** in software developer based in Benin. I enjoy c
 
 ## ⚡️ A Few Quick Facts
 
-- 🌱 I'm currently learning Blockchain development, Reactjs and Javascript 
+- 🌱 I'm currently learning Threejs and Frontend engineering 
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 🌍 Front-end web design
