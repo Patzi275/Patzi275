@@ -1,5 +1,3 @@
-
-
 <h1>
 	Hey! I am
 	<a href="https://github.com/Patzi275">Patrick</a>
