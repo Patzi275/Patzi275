@@ -23,9 +23,8 @@
 
 ### A little beat more... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
-I'm an **Undergrad Student🎓** in software engineering based in Benin.  
+I'm an **Undergrad Student🎓** in software engineering based in Benin.   
 <br>
-
 ## ⚡️ A Few Quick Facts
 
 - 🌱 I'm currently learning Threejs, Vim and how to sleep xD
