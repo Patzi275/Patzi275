@@ -17,7 +17,7 @@
 [![Bad](https://www.codewars.com/users/PatrickZ/badges/micro)](https://www.codewars.com/users/PatrickZ/badges/micro)
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=circle&logo=Itch.io&logoColor=white)](https://patziroyal.itch.io)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?logo=Gmail&logoColor=white&link=mailto:patrickzocli3@gmail.com)](mailto:patrickzocli3@gmail.com) 
-<img src="https://komarev.com/ghpvc/?username=Patzi275&style=flat-square&color=yellow" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Patzi275&style=flat-square&color=red" alt=""/>
 
 </p>
 
