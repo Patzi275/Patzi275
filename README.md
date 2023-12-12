@@ -15,10 +15,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrick-zocli/)](https://www.linkedin.com/in/patrick-zocli/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-circle&logo=Twitter&logoColor=white&link=https://twitter.com/patzidev)](https://twitter.com/patzidev)
 [![Bad](https://www.codewars.com/users/PatrickZ/badges/micro)](https://www.codewars.com/users/PatrickZ/badges/micro)
-<img src="https://komarev.com/ghpvc/?username=Patzi275&style=flat-square&color=blue" alt=""/>
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=circle&logo=Itch.io&logoColor=white)](https://patziroyal.itch.io)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?logo=Gmail&logoColor=white&link=mailto:patrickzocli3@gmail.com)](mailto:patrickzocli3@gmail.com) 
-
+<img src="https://komarev.com/ghpvc/?username=Patzi275&style=flat-square&color=yellow" alt=""/>
 
 </p>
 
