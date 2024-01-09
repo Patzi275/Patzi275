@@ -7,7 +7,7 @@
 <!-- Social links : 
 	Links to your social media accounts.
 -->
-<p align="center">
+<p align="center"> 
 
 <h3>📬 Find me at</h3>
 
