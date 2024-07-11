@@ -14,7 +14,6 @@
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-circle&logo=github&link=https://github.com/Patzi275/)](https://github.com/Patzi275/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrick-zocli/)](https://www.linkedin.com/in/patrick-zocli/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-circle&logo=Twitter&logoColor=white&link=https://twitter.com/patzidev)](https://twitter.com/patzidev)
-[![Bad](https://www.codewars.com/users/PatrickZ/badges/micro)](https://www.codewars.com/users/PatrickZ/badges/micro)
 [![wakatime](https://wakatime.com/badge/user/e4a59b81-e356-407f-94ce-3c01c70ae6a8.svg?style=default)](https://wakatime.com/@e4a59b81-e356-407f-94ce-3c01c70ae6a8)
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=circle&logo=Itch.io&logoColor=white)](https://patziroyal.itch.io)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?logo=Gmail&logoColor=white&link=mailto:patrickzocli3@gmail.com)](mailto:patrickzocli3@gmail.com) 
