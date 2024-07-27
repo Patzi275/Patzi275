@@ -22,6 +22,7 @@
 
 ### A little beat more... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
+
 I'm a Student🎓 in software engineering based in Benin, java enthusiast and chess aficionado.
 <br>
 ## ⚡️ A Few Quick Facts
