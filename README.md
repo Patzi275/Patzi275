@@ -27,7 +27,7 @@ I'm a Student🎓 in software engineering based in Benin, java enthusiast and ch
 <br>
 ## ⚡️ A Few Quick Facts
 
-- 🌱 I'm currently learning Threejs, Vim and how to sleep xD
+- 🌱 I'm currently learning Threejs, Blockchain dev, Vim and how to sleep xD
 
 - 💬 Ask me about java, 3D and design patterns
 
