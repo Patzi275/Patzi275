@@ -27,9 +27,7 @@ I'm a dev based in Benin, java enthusiast and chess aficionado.
 <br>
 ## ⚡️ A Few Quick Facts
 
-- 🌱 I'm currently learning Threejs, Blockchain dev, Vim and how to sleep xD
-
-- 💬 Ask me about java, 3D and design patterns
+Learning Three.js, blockchain development, and Vim, while trying to master the art of sleeping. Happy to talk about Java, 3D, Computer graphics, Blockchain and software architectures, design patterns.
 
 ### ⚙️ Most used languages and Tools...
 <p align="center">
