@@ -5,7 +5,7 @@
 -->
 
 
-### Whomai <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+### Whoami <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
 A guy based in Benin, with a passion for Java, clean architecture, and creative tech. 
 I build games and interactive experiences and explore emerging technologies like Three.js, blockchain, and developer tools like Vim.   
